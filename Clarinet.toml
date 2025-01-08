@@ -10,6 +10,11 @@ path = 'contracts/funding-allocation.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.milestone-tracking]
+path = 'contracts/milestone-tracking.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.research-proposal]
 path = 'contracts/research-proposal.clar'
 clarity_version = 2

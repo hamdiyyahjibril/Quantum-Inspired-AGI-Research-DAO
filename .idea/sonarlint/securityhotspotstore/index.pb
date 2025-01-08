@@ -7,3 +7,5 @@ Q
 !contracts/funding-allocation.clar,4/b/4b557b9101d68a7025935211a09819f666be8cbe
 P
  tests/funding-allocation.test.ts,c/3/c339af6930696fe5c33c57246e23b33eecb51b6f
+Q
+!contracts/milestone-tracking.clar,1/3/136339d7b13dd902f9545c17f7451674e76db1a9
