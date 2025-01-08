@@ -11,3 +11,7 @@ Q
 !contracts/milestone-tracking.clar,1/3/136339d7b13dd902f9545c17f7451674e76db1a9
 P
  tests/milestone-tracking.test.ts,8/b/8bcb78d0fd6a1112c2e6d946f463b5e181af5f55
+N
+tests/breakthrough-nft.test.ts,f/e/fe21f964c6ec0fc42edbf7e55f19cb694d2b12c0
+O
+contracts/breakthrough-nft.clar,1/7/172cb7146a11f13514ff0db9cce81e1bd2861ca4
