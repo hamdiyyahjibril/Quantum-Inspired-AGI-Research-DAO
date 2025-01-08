@@ -10,11 +10,6 @@ path = 'contracts/breakthrough-nft.clar'
 clarity_version = 2
 epoch = 2.5
 
-[contracts.breakthrough-nft_]
-path = 'contracts/breakthrough-nft_.clar'
-clarity_version = 2
-epoch = 2.5
-
 [contracts.funding-allocation]
 path = 'contracts/funding-allocation.clar'
 clarity_version = 2
