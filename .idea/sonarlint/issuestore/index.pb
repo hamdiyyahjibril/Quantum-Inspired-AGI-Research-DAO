@@ -17,3 +17,5 @@ O
 contracts/breakthrough-nft.clar,1/7/172cb7146a11f13514ff0db9cce81e1bd2861ca4
 =
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
+O
+contracts/tokenized-voting.clar,6/e/6ebea88a86ac96340fe08365d6696186fd9fb485
